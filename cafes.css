@@ -1,0 +1,521 @@
+a{
+    color: black;
+}
+h3 {
+    font-family: "Unica One";
+    font-size:30px;
+    background-color: white;
+}  
+  
+h2 {
+    font-family: "Unica One";
+    font-size: 50px;
+}
+  
+h4 {
+    font-family: "Rubik";
+}
+  
+  .flex-container4 {
+    display: flex;
+  }
+  .flex-container4 div {
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container5 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container5 div {
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container6 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container6 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container7 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container7 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container8 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container8 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container9 {
+    display:flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container9 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container10 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container10 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container11 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container11 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container12 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container12 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container13 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container13 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container14 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container14 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container15 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container15 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container16 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container16 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container17 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container17 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container18 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container18 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container19 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container19 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container20 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container20 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container21 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container21 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container22 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container22 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container23 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container23 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container24 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container24 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container25 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container25 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container26 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container26 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container27 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container27 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container28 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container28 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+  .flex-container29 {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container29 div{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    flex: 1;
+    background-color: cornflowerblue;
+  }
+
+.child10 {
+    background-image: url(https://s3-media0.fl.yelpcdn.com/bphoto/E43gZVnPAxahrwTdgCosbw/o.jpg);
+    background-size: 150%;
+    object-fit: cover;
+      max-width: 100%;
+      min-height: 100%;
+    }
+    .child11 {
+        background-color: aqua;
+    }
+    .child12 {
+    background-image: url(https://pbs.twimg.com/media/DfvPrmyX4AEnUo3.jpg);
+    object-fit: cover;
+    max-width: 100%;
+    min-height: 100%;
+    }
+    .child13 {
+        background-color: aqua;
+    }
+    .child14 {
+    background-image: url(https://www.hot-dinners.com/images/stories/blog/2019/jolt2.jpg);
+    object-fit: cover;
+      max-width: 100%;
+      min-height: 100%;
+    }
+    .child15 {
+        background-color: aqua;
+    }
+    .child16 {
+    background-image: url(https://mishmash.pt/wp-content/uploads/2019/12/mishmash_blog_1800x1200px_ozone-cafe-1.jpg);
+    background-position: 50%;
+    background-size: 150%;
+    }
+    .child17 {
+        background-color: aqua;
+
+    }
+    .child18 {
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/15/53/5a/73/interior.jpg) ;
+    background-size: 165%;
+    background-position: 30%;
+    }
+    .child19 {
+        background-color: aqua;
+    }
+    .child20 {
+      background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/09/75/a5/72/bloomsbury-coffee-house.jpg);
+    }
+    .child21 {
+      background-color: aqua;
+    }
+    .child22 {
+      background-image: url(https://images.prismic.io/wellcomecollection/4238f1cb5113daac9e32a676205bef5bae7d5acb_c0108488.jpg?auto=compress,format);
+    }
+    .child23 {
+      background-color: aqua;
+    }
+    .child24 {
+      background-image: url(https://bdaily.co.uk/images/uploads/qlkA7YBFxLbSHKXbHLeq22mfBwlesRpk5WhwyYms.jpeg?s=b5c098f6ba66ead3c82b254d516ea878);
+    }
+    .child25 {
+      background-color: aqua;
+    }
+    .child26{
+      background-image: url(https://static1.squarespace.com/static/5b8ff6e75b409bb24268f4db/5b910a0170a6ad6ebe966c77/5b9e6c724fa51a645201aa94/1565099645784/DSC03883.png?format=1500w);
+    }
+    .child27 {
+      background-color: aqua;
+    }
+    .child28{
+      background-image: url(https://spacestor.com/media/scaled_images/insights/2017/01/new-office-fareshare-1_medium.jpg);
+    }
+    .child29 {
+      background-color: aqua;
+    }
+    .child30 {
+      background-image: url(https://luxplorer.com/wp-content/uploads/2019/07/48BCF6A8-4B8C-466D-99D9-95C5FE26773A.jpeg);
+    }
+    .child31 {
+      background-color: aqua;
+    }
+    .child32 {
+      background-image: url(https://secretldn.com/wp-content/uploads/2018/10/aubaine.jpg);
+    }
+    .child33 {
+      background-color: aqua;
+    }
+    .child34 {
+      background-image:url(https://cdn.shopify.com/s/files/1/0123/2928/7737/articles/London_Grind-12_960x720_crop_center.jpg?v=1543227163);
+    }
+    .child35 {
+      background-color: aqua;
+    }
+    .child36 {
+      background-image: url(https://secretldn.com/wp-content/uploads/2019/01/kalifornia-kitchen-interior.jpg);
+    }
+    .child37 {
+      background-color: aqua;
+    }
+    .child38 {
+      background-image: url(https://secretldn.com/wp-content/uploads/2017/07/sketch.jpg);
+    }
+    .child39 {
+      background-color: aqua;
+    }
+    .child40 {
+      background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/08/7b/93/84/st-martins-in-the-fields.jpg);
+    }
+    .child41 {
+      background-color: aqua;
+    }
+    .child42 {
+      background-image: url(https://lh3.googleusercontent.com/proxy/B6NmP5iPufiA3SpPbuZusvqRZMK8pM4v8zr7HzTUPJ1fVnzCqiJdKtzR_fd9sXn22G1NOlIEiaNcmPS7-Y3iEQ9nuJZZs0Il5LWB3tBT3dd-zlYyOYZllY7cE5igsPA);
+    }
+    .child42 {
+      background-color: aqua;
+    }
+    .child44 {
+      background-image: url(https://www.culturewhisper.com/images/thumbs/cw-30305-660x375.jpg);
+    }
+    .child45 {
+      background-color: aqua;
+    }
+    .child46 {
+      background-image: url(https://media.timeout.com/images/104721240/630/472/image.jpg);
+    }
+    .child47 {
+      background-color: aqua;
+    }
+    .child48 {
+      background-image: url(https://deskoverlondon.files.wordpress.com/2014/10/img_1428.jpg);
+    }
+    .child49 {
+      background-color: aqua;
+    }
+    .child50 {
+      background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/04/9b/e0/4c/paper-and-cup.jpg) ;
+    }
+    .child51 {
+      background-color: aqua;
+    }
+    .child52 {
+      background-image: url(https://rabda2.s3.amazonaws.com/images/images/54601/large/02_ok.jpg);
+    }
+    .child53 {
+      background-color: aqua;
+    }
+    .child54 {
+      background-image: url(https://s3-media0.fl.yelpcdn.com/bphoto/8B7Lty7PWkHpwFZ1LI7seA/l.jpg);
+    }
+    .child55 {
+      background-color: aqua;
+    }
+    .child56 {
+      background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/12/56/6f/cc/prufrock-coffee.jpg);
+    }
+    .child57 {
+      background-color: aqua;
+    }
+    .child58 {
+      background-image: url(https://cdn.londonandpartners.com/asset/coffee-island_coffee-island-interior-photo-alex-bamford-image-courtesy-of-coffee-island_f062fde52b12be14af756866d67d26f3.jpg);
+    }
+    .child59 {
+      background-color: aqua;
+    }

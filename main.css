@@ -1,0 +1,285 @@
+
+.child6 .button {
+ position: absolute;
+ top: 100px;
+ right: 10px;
+ width: 100%;
+ border: none;
+ background-color:white;
+ color: black;
+ font-size: 20px;
+ white-space: normal;
+word-wrap: break-word;
+font-family:"Rubik"
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  object-fit: cover;
+  max-width: 100%;
+  min-height: 100%;
+}
+@media(max-width: 500px) {
+  .img {
+    flex-basis: 50%;
+  }
+}
+
+
+.animated {
+  position: absolute;
+  background-image: linear-gradient(transparent 0%, transparent 65%, rgb(26, 243, 214) 65%, rgb(26, 243, 214) 90%, transparent 90%, transparent);
+  display: inline;
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: .4s background-size;
+  color:black;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  font-size: 30px;
+}
+.animated:after {
+  content: '';
+  display: block;
+}
+.animated:hover {
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+
+h1{
+    font-family: 'Unica One';
+    text-align: center;
+    font-size: 70px;
+    margin: 10px;
+}
+
+h2{
+  font-family: 'Rubik';
+    text-align: center;
+    font-size: 20px;
+}
+
+h3{
+  font-family: 'Rubik';
+    text-align: center;
+    font-size: 20px;
+}
+
+h4 {
+  margin: 10px;
+  font-family: "Rubik"
+}
+
+.topnav{
+    background-color: purple;
+    overflow: hidden;
+    text-align: center;
+    font-family: 'Unica One', regular;
+}
+.topnav a{
+    float: center;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.topnav a:hover{
+    background-color: skyblue;
+    color: black;
+}
+.topnav a.active{
+    background-color: black;
+    color: white;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    -ms-flex: 50%;
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+ 
+
+.flex-container1{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+.flex-container1 div {
+    background-color: whitesmoke;
+    width: 30%;
+    margin: 10px;
+    height: 300px;
+    padding: 10px;
+    flex: 1;
+    font-family: "Rubik";
+    border-radius: 2px;
+}
+
+.flex-container2 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
+.flex-container2 div {
+  background-color: whitesmoke;
+  width: 200px;
+  margin: 10px;
+  height: 300px;
+  padding: 10px;
+  flex: 1;
+  font-family: "Rubik", regular;
+  border-radius: 2px;
+}
+
+.flex-container4 {
+  display: flex;
+}
+.flex-container4 div {
+  height: 250px;
+  width: 250px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+  background-color: cornflowerblue;
+}
+.flex-container5 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.flex-container5 div {
+  height: 700px;
+  width: 700px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+  background-color: cornflowerblue;
+}
+.flex-container6 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.flex-container6 div{
+  height: 400px;
+  width: 400px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+  background-color: cornflowerblue;
+}
+.flex-container7 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.flex-container7 div{
+  height: 700px;
+  width: 700px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+  background-color: cornflowerblue;
+}
+.flex-container8 {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.flex-container8 div{
+  height: 700px;
+  width: 700px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+  background-color: cornflowerblue;
+}
+.flex-container9 {
+  display:flex;
+  flex-wrap: nowrap;
+}
+.flex-container9 div{
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  flex: 1;
+  background-color: white;
+}
+
+
+.child1 {
+   /*border: 1px solid #666;*/
+}
+
+@media(max-width: 815px) {
+  .child1 {
+    flex-basis: 50%;
+  }
+}
+
+.child2 {
+  
+}
+@media(max-width: 815px) {
+  .child1 {
+    flex-basis: 50%;
+  }
+}
+.child3 {
+   /*border: 1px solid #666;
+   display:flex; 
+  text-align: center;
+  color: black;
+  width: 30%;
+  /*border: 1px solid #666;
+  position: relative*/
+}
+.child4 {
+   /*border: 1px solid #666;*/
+}
+.child5 {
+   /*border: 1px solid #666;*/
+}
+.child6 {
+  position:relative;
+  display:inline-block;
+  text-align:center;
+}
+.child7 {
+   /*border: 1px solid #666;*/
+}
+.child8 {
+   /*border: 1px solid #666;*/
+}
+.child9 {
+   /*border: 1px solid #666;*/
+}
+
+span.underline {
+  height: 100%;
+  width: 100%;
+  background-image: url(underline-tile.svg);
+  background-size: contain;
+  background-repeat: repeat;
+  background-position: left bottom;
+}
